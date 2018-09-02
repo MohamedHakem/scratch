@@ -8,4 +8,4 @@
     -ms-box-sizing: border-box;
     box-sizing: border-box;
 } 
-.container {margin:100px;border: red 5px;}
+.container {align:center;margin:100px;border: red 5px;}
