@@ -1,3 +1,15 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+div.left {
+  height: 100%;
+}
+
 /* * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -5,10 +17,6 @@
     box-sizing: border-box;
 } 
 */
-
-
-body, html {height: 100%; }
-div { height: 100%; }
 
 
 /* div {
